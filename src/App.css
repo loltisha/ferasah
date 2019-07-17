@@ -23,7 +23,7 @@
   color: #61dafb;
 }
 .jumbotron { 
-  background-color: #e0957e; /* Orange */
+  background-color: #d3beb8; /* Orange */
   color: #ffffff;
 }
 .container-fluid {
@@ -118,6 +118,73 @@ li{
     margin: 25px 0;
   }
 }
+.show-details-info {
+  padding: 16px;
+  text-align: center;
+}
+.show-details-info {
+  padding: 16px;
+  text-align: center;
+  background-color: rgba(97,94,90,.82);
+
+}
+.title, .header-details {
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-top: 0;
+  font-weight: 700;
+  background-color: rgba(97,94,90,.82);
+  /* transform: translate3d(-100%,0,0) rotate3d(0,0,1,-120deg); */
+}
+h3 {
+ 
+  white-space:nowrap;
+  
+}
+h3:first-of-type {    /* For increasing performance 
+  ID/Class should've been used. 
+  For a small demo 
+  it's okaish for now */
+animation: showup 7s infinite;
+}
+
+h3:last-of-type {
+width:0px;
+animation: reveal 7s infinite;
+}
+
+h3:last-of-type span {
+margin-left:-355px;
+animation: slidein 7s infinite;
+}
+
+@keyframes showup {
+0% {opacity:0;}
+20% {opacity:1;}
+80% {opacity:1;}
+100% {opacity:0;}
+}
+
+@keyframes slidein {
+0% { margin-left:-800px; }
+20% { margin-left:-800px; }
+35% { margin-left:0px; }
+100% { margin-left:0px; }
+}
+
+@keyframes reveal {
+0% {opacity:0;width:0px;}
+20% {opacity:1;width:0px;}
+30% {width:355px;}
+80% {opacity:1;}
+100% {opacity:0;width:355px;}
+}
+
+.rollIn {
+  -webkit-animation-name: rollIn;
+  animation-name: rollIn;
+}
+
 .slideshow {
   list-style-type: none;
    height: 500px !important; 

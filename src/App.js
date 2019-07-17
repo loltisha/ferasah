@@ -53,6 +53,13 @@ function App() {
 	<li><span></span></li>
 	<li><span></span></li>
 </ul>
+
+<div className="show-details-info animated rollIn delay-6s">
+  <h3 className="heading" id="x1" > في سبيل القضاء على الشركات الوهمية .  نائب وزير الحج والعمرة: "المسار الإلكتروني لحجاج الداخل" المنفذ الوحيد لحجز الخدمات</h3>
+  <p className=" title "> 
+                                   أعلنت وزارة الحج والعمرة عن بدء المرحلة الثانية من المسار الإلكتروني لحجاج الداخل يوم الخميس المقبل الموافق الأول من شهر ذي القعدة، وذلك من خلال استخدام.....
+                                </p>
+</div>
          {/* <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
    <div className="carousel-inner">
      <div className="carousel-item active">
