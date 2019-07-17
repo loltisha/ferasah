@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ferasah/static/css/main.5fe8c2e9.chunk.css",
+    "main.js": "/ferasah/static/js/main.bf30b801.chunk.js",
+    "main.js.map": "/ferasah/static/js/main.bf30b801.chunk.js.map",
+    "runtime~main.js": "/ferasah/static/js/runtime~main.4f175ca4.js",
+    "runtime~main.js.map": "/ferasah/static/js/runtime~main.4f175ca4.js.map",
+    "static/css/2.266e55a5.chunk.css": "/ferasah/static/css/2.266e55a5.chunk.css",
+    "static/js/2.6304fb9d.chunk.js": "/ferasah/static/js/2.6304fb9d.chunk.js",
+    "static/js/2.6304fb9d.chunk.js.map": "/ferasah/static/js/2.6304fb9d.chunk.js.map",
+    "index.html": "/ferasah/index.html",
+    "precache-manifest.d1d2a572d12143e0482ce40b355a7e0f.js": "/ferasah/precache-manifest.d1d2a572d12143e0482ce40b355a7e0f.js",
+    "service-worker.js": "/ferasah/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/ferasah/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.5fe8c2e9.chunk.css.map": "/ferasah/static/css/main.5fe8c2e9.chunk.css.map",
+    "static/media/App.css": "/ferasah/static/media/بثب.1f383b1f.jpg",
+    "static/media/logo.svg": "/ferasah/static/media/logo.5d5d9eef.svg",
+    "static/media/logof.jpg": "/ferasah/static/media/logof.0867cefc.jpg",
+    "static/media/sa.jpg": "/ferasah/static/media/sa.fef23d6b.jpg"
+  }
+}
